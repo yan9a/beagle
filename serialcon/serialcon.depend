@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1506925183 source:/home/yan/BeagleBoneBlackbook/Writing/Code/serialcon/serialcon.cpp
+	<stdio.h>
+	"Serial.h"
+
+1506925291 /home/yan/BeagleBoneBlackbook/Writing/Code/serialcon/include/Serial.h
+	<stdlib.h>
+	<stdio.h>
+	<unistd.h>
+	<fcntl.h>
+	<termios.h>
+	<string.h>
+	<sys/ioctl.h>
+
+1506925291 source:/home/yan/BeagleBoneBlackbook/Writing/Code/serialcon/src/Serial.cpp
+	"Serial.h"
+
