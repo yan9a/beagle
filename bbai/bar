@@ -1,8 +1,0 @@
-#!/bin/bash
-#Build and run
-echo "Building"
-g++ bbai.cpp ce_ai.cpp -o bbai
-echo "Running"
-./bbai
-
-

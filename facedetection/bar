@@ -1,6 +1,0 @@
-#!/bin/bash
-#Build and run
-echo "Building"
-g++ main.cpp `pkg-config --cflags --libs opencv` -o main -std=c++11
-echo "Running"
-gksudo ./main

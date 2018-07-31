@@ -1,8 +1,0 @@
-#!/bin/bash
-#Build and run
-echo "Building"
-g++ i2cgyro.cpp cei2c.cpp -o i2cgyro
-echo "Running"
-./i2cgyro
-
-
